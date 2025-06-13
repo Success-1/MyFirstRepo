@@ -1,4 +1,5 @@
 # MyFirstRepo
-My first ALX pathway github repository
+My first ALX pathway GitHub repository
 
- My Personal and Academic Goals for Next Year
+ My Personal and Academic Goals for Next Year:
+By next year, I aim to be the top student in my class. I will be working and earning in dollars. By next year, I will be a better version of myself. By next year, I will be earning six figures and have launched my venture.
