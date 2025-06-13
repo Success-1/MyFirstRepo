@@ -1,4 +1,6 @@
-My name is Success Ituma. I am an ALX pathway and masterCard foundation scholar.
-I am a 20 years old passionate tech ethusiast, I am aiming to use technology to solve tyhe real world problem we are facing in our society. 
+Brief Introduction About Myself:
+
+My name is Success Ituma. I am an ALX pathway and MasterCard Foundation scholar.
+I am a 20-year-old passionate tech enthusiast. I am aiming to use technology to solve the real-world problems we are facing in our society. 
 I want to serve as an inspiration to many young girls out there.
-I am a software engineer, a leader and a life coach. I believe in giving back to the community and I want to help other people figure out who they are as I did find myself. 
+I am a software engineer, a leader, and a life coach. I believe in giving back to the community, and I want to help other people figure out who they are, as I did find myself. 
