@@ -1,1 +1,3 @@
-I have learnt more about how to use git and GitHub, and the essential commands have become clearer to me. Initially, I just used them but didn't have a clear understanding of what they actually do.
+["What I have learned from this course"]
+
+I have learnt more about how to use git and GitHub, and the essential commands have become clearer to me. Initially, I used them, but I didn't have a clear understanding of what they actually do.
